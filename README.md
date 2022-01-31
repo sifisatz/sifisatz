@@ -18,7 +18,7 @@ export default () => ({
  ```
  
   - Love Making solutions via Web Development && Machine Learning
-  - 🔭 Currently working on <code>**Chatting application**</code> Projects
+  - 🔭 Currently working on <code>**Chat app**</code> Projects
   - 😄 : **Laptop**, **Coffee**, **Coding**... **Startup!**
   - ⚡ Fun fact: <code> **Each breath gives you a 2 minute life extention.**</code>
   - 📫 Ping me on any of the below, i'll be **happy to chat!**
