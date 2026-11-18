@@ -30,9 +30,8 @@ More on the [projects page](https://atzamis-portfolio.vercel.app/projects).
 
 ### ✍️ Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-- [Introducing ToolGrade: do your MCP tools actually make agents better?](https://atzamis-portfolio.vercel.app/blog/introducing-toolgrade)
-- [Effective Remote Communication: A Field Guide for Distributed Teams](https://atzamis-portfolio.vercel.app/blog/effective-remote-communication)
+<!-- BLOG-POST-LIST:START -->- [Introducing ToolGrade: do your MCP tools actually make agents better?](https://atzamis.me/blog/introducing-toolgrade)
+- [Effective Remote Communication: A Field Guide for Distributed Teams](https://atzamis.me/blog/effective-remote-communication)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧰 Toolbox
