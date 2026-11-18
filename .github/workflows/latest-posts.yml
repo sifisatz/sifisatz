@@ -20,7 +20,8 @@ jobs:
         with:
           feed_list: https://atzamis-portfolio.vercel.app/feed.xml
           max_post_count: 5
-          template: '- [$title]($url)$newline'
+          # Leading newline keeps each item on its own line after the START marker.
+          template: '$newline- [$title]($url)'
           commit_message: 'docs(readme): refresh latest blog posts'
           committer_username: sifisatz
           committer_email: iwsifatz@gmail.com
